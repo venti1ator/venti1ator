@@ -5,11 +5,5 @@
 <img src="https://streak-stats.demolab.com?user=venti1ator&theme=tokyonight&hide_border=true" alt="venti1ator's GitHub Stats" />
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
 
 ![Codewars](https://github.r2v.ch/codewars?user=Bobe123)
