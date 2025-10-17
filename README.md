@@ -1,4 +1,6 @@
-☆*: .｡. o(≧▽≦)o .｡.:*☆
+Ẅ̷̡̢̛̳̱̱̲̘̼̞̯̹́̍̇̈́̽͐̾͜͝E̷͖͙͓̼̞͈̦̱͗̑̎͐̕̚͜ ̵̧̧̛̱̦̘̗̝̙͙̣̓̊̀̒̐͝C̵̨̨̛̺͖̻̞̥̻͉̆̏̒͗̂̒̒͜O̴̢̳͙̝̰͍͖̹̲̽̈́̐͐͋͜M̷̡̧̖̰͖̞̜̺̾̓͌̀̐̆̕͠E̵̛͇͈̝̞̰̓̈́͐̽̿̔̚͜
+
+
 
 I LEARN ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
