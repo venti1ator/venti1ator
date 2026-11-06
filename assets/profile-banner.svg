@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">Astral — learning to build with Python</title>
-  <desc id="desc">A midnight blue banner with a glowing orbit and a small terminal window.</desc>
+  <title id="title">Yang Horse — software, AI, bots and systems</title>
+  <desc id="desc">A midnight-blue profile banner with a glowing orbit and terminal window.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0b1020"/>
@@ -24,10 +24,10 @@
   <circle cx="930" cy="318" r="145" fill="#52d9c6" opacity=".09"/>
   <rect x="72" y="58" width="290" height="34" rx="17" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".13"/>
   <circle cx="92" cy="75" r="4" fill="#66e3d1"/>
-  <text x="108" y="80" fill="#b7c5e8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2.2">BUILDING · LEARNING · REPEATING</text>
-  <text x="68" y="207" fill="#f5f7ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="86" font-weight="750" letter-spacing="5">ASTRAL</text>
+  <text x="108" y="80" fill="#b7c5e8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2.2">BUILDING · LEARNING · ITERATING</text>
+  <text x="68" y="203" fill="#f5f7ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="72" font-weight="750" letter-spacing="3">YANG HORSE</text>
   <rect x="74" y="229" width="46" height="4" rx="2" fill="url(#glow)"/>
-  <text x="74" y="270" fill="#c4cbe2" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20">Learning Python by making small things work.</text>
+  <text x="74" y="270" fill="#c4cbe2" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20">Software · AI · bots · real-world systems</text>
   <text x="74" y="310" fill="#818eaf" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" letter-spacing=".6">GITHUB.COM / VENTI1ATOR</text>
   <g transform="translate(780 76)">
     <rect width="342" height="208" rx="18" fill="#10162b" stroke="#7784ad" stroke-opacity=".35"/>
@@ -36,8 +36,8 @@
     <circle cx="43" cy="23" r="5" fill="#ffc66d"/>
     <circle cx="62" cy="23" r="5" fill="#66e3d1"/>
     <text x="25" y="84" fill="#8c98bc" font-family="Consolas,Menlo,monospace" font-size="14">~/projects</text>
-    <text x="25" y="119" fill="#66e3d1" font-family="Consolas,Menlo,monospace" font-size="15">$ python start.py</text>
-    <text x="25" y="154" fill="#c9d0e6" font-family="Consolas,Menlo,monospace" font-size="14">small steps, real progress</text>
+    <text x="25" y="119" fill="#66e3d1" font-family="Consolas,Menlo,monospace" font-size="15">$ python build.py</text>
+    <text x="25" y="154" fill="#c9d0e6" font-family="Consolas,Menlo,monospace" font-size="14">ideas → projects → progress</text>
     <rect x="25" y="173" width="8" height="14" rx="2" fill="url(#glow)" filter="url(#softGlow)"/>
     <circle cx="316" cy="162" r="7" fill="#9b8cff" opacity=".8"/>
     <circle cx="295" cy="178" r="3" fill="#66e3d1" opacity=".8"/>
