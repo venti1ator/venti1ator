@@ -1,27 +1,56 @@
-Ẅ̷̡̢̛̳̱̱̲̘̼̞̯̹́̍̇̈́̽͐̾͜͝E̷͖͙͓̼̞͈̦̱͗̑̎͐̕̚͜ ̵̧̧̛̱̦̘̗̝̙͙̣̓̊̀̒̐͝C̵̨̨̛̺͖̻̞̥̻͉̆̏̒͗̂̒̒͜O̴̢̳͙̝̰͍͖̹̲̽̈́̐͐͋͜M̷̡̧̖̰͖̞̜̺̾̓͌̀̐̆̕͠E̵̛͇͈̝̞̰̓̈́͐̽̿̔̚͜
+<p align="center">
+  <img src="https://raw.githubusercontent.com/venti1ator/venti1ator/main/assets/profile-banner.svg" alt="Astral — learning to build with Python" width="100%" />
+</p>
 
+<h1 align="center">Hey, I'm Astral 👋</h1>
 
+<p align="center">
+  I'm learning Python by building small projects, experimenting, and figuring things out as I go.
+</p>
 
-I LEARN ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-learning-3776AB?style=flat-square&logo=python&logoColor=white" alt="Learning Python" />
+  <img src="https://img.shields.io/badge/Linux-Arch-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+</p>
 
-I use....
-![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![VS Code Insiders](https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+---
 
-------------------------------------------------------------------------------------------------------------------
+### 🚀 A few things I've made
 
-<img src="https://streak-stats.demolab.com?user=venti1ator&theme=tokyonight&hide_border=true" alt="venti1ator's GitHub Stats" />
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🎮 Rock, Paper, Scissors</h3>
+      <p>A little Python version of the classic game. Pick your move and see what the computer chooses.</p>
+      <a href="https://github.com/venti1ator/rock-paper-scissors">Explore the project →</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🔤 Longest Word</h3>
+      <p>A beginner Python exercise that takes five words and prints the longest one.</p>
+      <a href="https://github.com/venti1ator/venti1ator-How-to-find-longest-word">Explore the project →</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🌐 Animated Web Demo</h3>
+      <p>A small Flask page with HTML, CSS, JavaScript, and a loading animation.</p>
+      <a href="https://github.com/venti1ator/Web">Explore the project →</a>
+    </td>
+  </tr>
+</table>
 
--------------------------------------------------------------------------------------------------------------------
+### 🧰 What I'm learning with
 
-<img src="https://github-readme-stats.vercel.app/api?username=venti1ator&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="venti1ator's GitHub Stats" />
+Python · Flask · HTML · CSS · JavaScript · Arch Linux
 
-------------------------------------------------------------------------------------------------------------------
+### 🎮 Away from the keyboard
 
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
+I enjoy games too — you can find me on Steam and Epic Games.
 
-![Codewars](https://github.r2v.ch/codewars?user=Bobe123)
+---
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=venti1ator&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats for venti1ator" />
+  <img height="160" src="https://streak-stats.demolab.com?user=venti1ator&theme=tokyonight&hide_border=true" alt="GitHub contribution streak for venti1ator" />
+</p>
+
+<p align="center">Thanks for stopping by ✨</p>
