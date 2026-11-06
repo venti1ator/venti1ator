@@ -35,12 +35,12 @@
     <td width="50%" valign="top">
       <h3>🔐 NEA · Encrypted Chat</h3>
       <p>Зашифрованный чат · Encrypted chat · Чат із шифруванням</p>
-      <sub>🔒 Private repository</sub>
+      <sub>🔒 Private repository · Приватный репозиторий · Приватний репозиторій</sub>
     </td>
     <td width="50%" valign="top">
       <h3>💬 Chat to Chat</h3>
       <p>Проект чата · Chat project · Проєкт чату</p>
-      <sub>🔒 Private repository</sub>
+      <sub>🔒 Private repository · Приватный репозиторий · Приватний репозиторій</sub>
     </td>
   </tr>
   <tr>
@@ -51,7 +51,7 @@
     <td width="50%" valign="top">
       <h3>📰 AI News</h3>
       <p>Проект AI News · AI News project · Проєкт AI News</p>
-      <sub>🔒 Private repository</sub>
+      <sub>🔒 Private repository · Приватный репозиторий · Приватний репозиторій</sub>
     </td>
   </tr>
   <tr>
@@ -69,9 +69,9 @@
 
 ### 🌱 Public learning projects · Публичные учебные проекты · Публічні навчальні проєкти
 
-- [Rock, Paper, Scissors](https://github.com/venti1ator/rock-paper-scissors) — a Python version of the classic game.
-- [Longest Word](https://github.com/venti1ator/venti1ator-How-to-find-longest-word) — a small Python exercise.
-- [Animated Web Demo](https://github.com/venti1ator/Web) — a Flask page with HTML, CSS, JavaScript, and a loading animation.
+- [Rock, Paper, Scissors](https://github.com/venti1ator/rock-paper-scissors) — a Python version of the classic game · версия классической игры на Python · варіант класичної гри на Python.
+- [Longest Word](https://github.com/venti1ator/venti1ator-How-to-find-longest-word) — a small Python exercise · небольшое упражнение на Python · невелика вправа на Python.
+- [Animated Web Demo](https://github.com/venti1ator/Web) — a Flask page with HTML, CSS, JavaScript, and a loading animation · веб-страница на Flask с анимацией загрузки · вебсторінка на Flask з анімацією завантаження.
 
 ### 🗣️ Languages · Языки · Мови
 
