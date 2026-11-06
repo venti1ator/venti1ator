@@ -4,6 +4,10 @@
 
 <h1 align="center">Yang Horse <sub>@venti1ator</sub></h1>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/venti1ator/venti1ator/main/assets/maison-margiela-paris.jpg" alt="Maison Margiela, Paris" width="320" />
+</p>
+
 <details open>
   <summary>🇷🇺 Русский</summary>
   <p>Привет! Я Yang Horse. Разрабатываю проекты в области чатов, календарей, AI и автоматизации. Сейчас работаю над системой камер для семи бизнесов.</p>
@@ -24,6 +28,17 @@
   <img src="https://img.shields.io/badge/Web-Flask%20%7C%20HTML%20%7C%20CSS-6C7AE0?style=flat-square" alt="Flask, HTML and CSS" />
   <img src="https://img.shields.io/badge/Automation-Telegram%20bots-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram bots" />
   <img src="https://img.shields.io/badge/Languages-RU%20%7C%20EN%20%7C%20UK-8A6CFF?style=flat-square" alt="Russian, English and Ukrainian" />
+</p>
+
+### 🧩 Tools & platforms · Инструменты · Інструменти
+
+<p align="center">
+  <img src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white" alt="Epic Games" />
+  <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
+  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Insiders" />
+  <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Firefox" />
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" alt="Arch Linux" />
 </p>
 
 ---
